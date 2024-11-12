@@ -37,8 +37,7 @@
   }
 }
 
-
 @font-face {
   font-family: Tahoma;
-  src: url(./utils/fonts/Tahoma.ttf) format("truetype")
+  src: url(./utils/fonts/Tahoma.ttf) format('truetype');
 }
