@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+@font-face {
+  font-family: Tahoma;
+  src: url(./utils/fonts/Tahoma.ttf) format("truetype")
+}
